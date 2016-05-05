@@ -5,3 +5,5 @@
 * profile : 简介 
 * categories ：种类类别
 * archive: 档案
+* snippet 片段
+* brackets 括号
