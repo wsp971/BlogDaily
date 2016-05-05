@@ -7,3 +7,5 @@
 * archive: 档案
 * snippet 片段
 * brackets 括号
+* flavor  风格
+* syntax 语法
