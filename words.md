@@ -9,3 +9,5 @@
 * brackets 括号
 * flavor  风格
 * syntax 语法
+* inspectors: 监视员
+* 
