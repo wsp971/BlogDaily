@@ -10,4 +10,6 @@
 * flavor  风格
 * syntax 语法
 * inspectors: 监视员
+* flexible:灵活的
+* local scope 局部范围
 * 
