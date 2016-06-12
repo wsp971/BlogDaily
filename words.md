@@ -15,3 +15,4 @@
 * activate 激活
 * arch 首要的
 * shortcut 快捷方式
+* boilerplate 样板
