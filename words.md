@@ -16,3 +16,4 @@
 * arch 首要的
 * shortcut 快捷方式
 * boilerplate 样板
+* inject 添加
