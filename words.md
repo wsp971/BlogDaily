@@ -13,3 +13,5 @@
 * flexible:灵活的
 * local scope 局部范围
 * activate 激活
+* arch 首要的
+* shortcut 快捷方式
